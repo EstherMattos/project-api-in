@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  classPlan: 
+  enviromentSetting: 
+  selective_processes: one
+
+two:
+  name: 
+  classPlan: 
+  enviromentSetting: 
+  selective_processes: two

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  courses: one
+  day: 2019-08-07
+  startTime: 2019-08-07 22:37:56
+  duration: 2019-08-07 22:37:56
+
+two:
+  courses: two
+  day: 2019-08-07
+  startTime: 2019-08-07 22:37:56
+  duration: 2019-08-07 22:37:56
